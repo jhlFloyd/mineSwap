@@ -1,5 +1,6 @@
-# swapPi
-Multi-game server hosting solution, utilizing Raspberry Pi computers with ability to quickly swap between server programs
+# swapMine
+Python program that allows quick swapping of Minecraft java edition servers, console commands, etc.
+
 
 
 
